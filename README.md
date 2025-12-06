@@ -1,1 +1,1 @@
-# Shadowrocket相关配置文件几规则
+# Shadowrocket相关配置文件及规则
