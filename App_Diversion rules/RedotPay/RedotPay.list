@@ -1,1 +1,11 @@
-
+# NAME: RedotPay
+# AUTHOR: xideng72
+# REPO: https://github.com/xideng72/Shadowrocket/blob/main/App_Diversion%20rules/
+# UPDATED: 2025-12-14 08:43:42
+# DOMAIN-SUFFIX: 1
+# TOTAL: 5
+DOMAIN-SUFFIX,redotpay.com
+DOMAIN-SUFFIX,redotpay.net
+DOMAIN-SUFFIX,applanga.com
+DOMAIN-SUFFIX,online-metrix.net
+DOMAIN-SUFFIX,appsflyersdk.com
