@@ -1,12 +1,13 @@
-# --- Kraken (Krak) App 规则列表 ---
-# 核心业务
+
+# NAME: Krak
+# AUTHOR: xideng72
+# REPO: https://github.com/xideng72/Shadowrocket/blob/main/App_Diversion%20rules/
+# UPDATED: 2025-12-21 09:01:42
+# DOMAIN-SUFFIX: 10
+# TOTAL: 10
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,kraken.zendesk.com
-
-# 风控与安全插件 (必须与主域名节点一致)
 DOMAIN-SUFFIX,nsureapi.com
-
-# 功能性 SDK (影响推送、客服、热更新)
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,smooch.io
 DOMAIN-SUFFIX,launchdarkly.com
@@ -14,6 +15,3 @@ DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,expo.dev
-
-# 谷歌相关推送辅助 (可选)
-DOMAIN-KEYWORD,googleapis
