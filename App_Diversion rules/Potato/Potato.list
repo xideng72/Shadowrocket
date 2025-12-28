@@ -2,6 +2,12 @@
 # AUTHOR: xideng72
 # REPO: https://github.com/xideng72/Shadowrocket/blob/main/App_Diversion%20rules/
 # UPDATED: 2025-12-18 12:50:42
-# DOMAIN-SUFFIX: 1
-# TOTAL: 1
+# DOMAIN-SUFFIX: 5
+# TOTAL: 7
 DOMAIN-SUFFIX,potato.im
+DOMAIN-SUFFIX,pt.im
+DOMAIN-SUFFIX,potatocdn.com
+DOMAIN-SUFFIX,potato.chat
+DOMAIN-SUFFIX,potatogames.com
+DOMAIN-KEYWORD,potato
+USER-AGENT,Potato*
