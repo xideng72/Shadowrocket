@@ -1,1 +1,29 @@
-
+# NAME: Bitget Wallet
+# AUTHOR: xideng72
+# REPO: https://github.com/xideng72/Shadowrocket/blob/main/App_Diversion%20rules/
+# UPDATED: 2025-12-28 08:48:42
+# DOMAIN-SUFFIX: 23
+# TOTAL: 23
+DOMAIN-SUFFIX,bitapi.vip
+DOMAIN-SUFFIX,bitkeep.com
+DOMAIN-SUFFIX,bitkeep.vip
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitkeep.life
+DOMAIN-SUFFIX,bitkeep.asia
+DOMAIN-SUFFIX,bitkeep.biz
+DOMAIN-SUFFIX,bitkeep.top
+DOMAIN-SUFFIX,bitkeep.fun
+DOMAIN-SUFFIX,bitkeep.app
+DOMAIN-SUFFIX,bwb.online
+DOMAIN-SUFFIX,chainnear.com
+DOMAIN-SUFFIX,wwmxd.org
+DOMAIN-SUFFIX,wwmxd.fun
+DOMAIN-SUFFIX,wwmxd.shop
+DOMAIN-SUFFIX,ljhsnzpc.com
+DOMAIN-SUFFIX,lymryy.com
+DOMAIN-SUFFIX,spindlembed.com
+DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,theengagelab.com
+DOMAIN-SUFFIX,engagelab.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,crashlytics.com
