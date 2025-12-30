@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,potatocdn.net
 DOMAIN-SUFFIX,pt-static.com
 DOMAIN-SUFFIX,ptcdn.biz
 DOMAIN-SUFFIX,potato.media
+DOMAIN-SUFFIX,app-analytics-services.com
 # 关键字匹配
 DOMAIN-KEYWORD,potato
 # 官方 IP 段
