@@ -1,8 +1,8 @@
 #!name=通用去广告规则
 #!desc=通用小火箭去广告规则集
 # 本规则集的目的是去除部分第三方广告
-# 整理作者：https://github.com/LOWERTOP
-# 仓库地址：https://github.com/LOWERTOP/Shadowrocket-First
+# 整理作者：https://github.com/xideng72
+# 仓库地址：https://github.com/xideng72/Shadowrocket/tree/main/Ad%20blocking%20rules
 # 类型选择：RULE-SET
 # 策略建议：REJECT-DROP 或者 REJECT
 
