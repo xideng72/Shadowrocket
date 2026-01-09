@@ -2,10 +2,18 @@
 # AUTHOR: xideng72
 # REPO: https://github.com/xideng72/Shadowrocket/blob/main/App_Diversion%20rules/
 # UPDATED: 2025-12-04 20:43:42
-# DOMAIN-SUFFIX: 5
-# TOTAL: 5
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
 DOMAIN-SUFFIX,byapps.net
 DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,byd3c3.com
 DOMAIN-SUFFIX,bybit.biz
 DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,byabcd.com
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
+DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de
