@@ -17,6 +17,8 @@ DOMAIN-SUFFIX,ptcdn.biz
 DOMAIN-SUFFIX,potato.media
 DOMAIN-SUFFIX,ep2.facebook.com
 DOMAIN-SUFFIX,diag.pwlt.me
+DOMAIN-SUFFIX,diag.vonneumann.me
+DOMAIN-SUFFIX,clientcollection.lynnconway.xyz
 # 关键字匹配
 DOMAIN-KEYWORD,potato
 # 官方 IP 段
