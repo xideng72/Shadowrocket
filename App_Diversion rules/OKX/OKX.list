@@ -1,0 +1,8 @@
+# NAME: OKX
+# AUTHOR: xideng72
+# REPO: https://github.com/xideng72/Shadowrocket/blob/main/App_Diversion%20rules/
+# UPDATED: 2025-12-04 20:43:42
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
