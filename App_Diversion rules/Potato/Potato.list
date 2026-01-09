@@ -6,6 +6,8 @@
 # TOTAL: 13
 # --- Potato Chat 规则开始 ---
 # 域名匹配
+DOMAIN-SUFFIX,ppf.io
+DOMAIN-SUFFIX,pwlt.me
 DOMAIN-SUFFIX,potato.chat
 DOMAIN-SUFFIX,potato.im
 DOMAIN-SUFFIX,ptstatic.com
@@ -19,6 +21,7 @@ DOMAIN-SUFFIX,ep2.facebook.com
 DOMAIN-SUFFIX,diag.pwlt.me
 DOMAIN-SUFFIX,diag.vonneumann.me
 DOMAIN-SUFFIX,clientcollection.lynnconway.xyz
+DOMAIN-SUFFIX,gsxhtmy.com
 # 关键字匹配
 DOMAIN-KEYWORD,potato
 # 官方 IP 段
