@@ -1,4 +1,9 @@
-Bank of China
+# NAME: Bank of China
+# AUTHOR: xideng72
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2026-1-20 20:43:42
+# DOMAIN-SUFFIX: 22
+# TOTAL: 22
 DOMAIN-SUFFIX,bank-of-china.com
 DOMAIN-SUFFIX,bankofchina.com
 DOMAIN-SUFFIX,boc.cn
