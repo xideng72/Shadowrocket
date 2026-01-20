@@ -6,9 +6,9 @@
 # 类型选择：RULE-SET
 # 策略建议：REJECT-DROP 或者 REJECT
 
+# --- 国际广告联盟 ---
 DOMAIN,gum.criteo.com
 DOMAIN-SUFFIX,taboola.com
-# DOMAIN,app-analytics-services.com
 DOMAIN-SUFFIX,inner-active.mobi
 DOMAIN-SUFFIX,mobilefuse.com
 DOMAIN-SUFFIX,pubmatic.com
@@ -22,8 +22,48 @@ DOMAIN,as.cluep.com
 DOMAIN,beacon-iad6.rubiconproject.com
 DOMAIN,static-content-1.smadex.com
 DOMAIN,sdk-dnt.ad.smaato.net
-# Google 广告联盟拦截
+
+# --- Google 广告相关 ---
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googlesyndication-cn.com
+DOMAIN-SUFFIX,googleadservices.com
+
+# --- 国内主流广告联盟 (拦截开屏/信息流广告) ---
+# 穿山甲 (字节跳动)
+DOMAIN-SUFFIX,pangle.io
+DOMAIN-SUFFIX,pangleglobal.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-KEYWORD,pangle-sdk
+
+# 优量汇/广点通 (腾讯)
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,e.qq.com
+DOMAIN-SUFFIX,mi.gdt.qq.com
+
+# 百度移动广告
+DOMAIN-SUFFIX,mobads.baidu.com
+DOMAIN-SUFFIX,mobads-logs.baidu.com
+DOMAIN-SUFFIX,pos.baidu.com
+
+# 快手广告
+DOMAIN-SUFFIX,e.kuaishou.com
+DOMAIN-SUFFIX,ad.yximgs.com
+
+# 阿里/闲鱼/淘宝等相关广告追踪
+DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,adashbc.ut.taobao.com
+DOMAIN-SUFFIX,ut.alibaba.com
+
+# --- 隐私追踪与数据审计 ---
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,growingio.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umengcloud.com
+
+# --- 常见的 DNS 绕过拦截 (DoH) ---
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,cloudflare-dns.com
