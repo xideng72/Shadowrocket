@@ -1,3 +1,9 @@
+# NAME: Merchants Bank
+# AUTHOR: xideng72
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2026-1-20 20:43:42
+# DOMAIN-SUFFIX: 38
+# TOTAL: 38
 DOMAIN-SUFFIX,8008205555.cn
 DOMAIN-SUFFIX,8008205555.com
 DOMAIN-SUFFIX,bbf.org.cn
