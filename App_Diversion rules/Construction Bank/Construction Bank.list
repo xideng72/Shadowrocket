@@ -1,3 +1,9 @@
+# NAME: Construction Bank
+# AUTHOR: xideng72
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2026-1-20 20:43:42
+# DOMAIN-SUFFIX: 18
+# TOTAL: 18
 DOMAIN-SUFFIX,ccb-life.com.cn
 DOMAIN-SUFFIX,ccb.cn
 DOMAIN-SUFFIX,ccb.com
