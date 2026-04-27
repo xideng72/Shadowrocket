@@ -1,7 +1,13 @@
-DOMAIN-SUFFIX,bit.com,PROXY
-DOMAIN-SUFFIX,matrixport.com,PROXY
-DOMAIN-SUFFIX,lbkrs.com,PROXY
-DOMAIN-SUFFIX,matrixtechfin.com,PROXY
-DOMAIN-SUFFIX,longbridgeapp.com,PROXY
-DOMAIN-KEYWORD,matrixport,PROXY
-DOMAIN-KEYWORD,bit.com,PROXY
+# NAME: BIT
+# AUTHOR: xideng72
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2026-04-27 15:12:42
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+DOMAIN-SUFFIX,bit.com
+DOMAIN-SUFFIX,matrixport.com
+DOMAIN-SUFFIX,lbkrs.com
+DOMAIN-SUFFIX,matrixtechfin.com
+DOMAIN-SUFFIX,longbridgeapp.com
+DOMAIN-KEYWORD,matrixport
+DOMAIN-KEYWORD,bit.com
