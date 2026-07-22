@@ -1,0 +1,10 @@
+# NAME: Monzo
+# AUTHOR: xideng72
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2026-07-22 14:52:42
+# DOMAIN-SUFFIX: 4
+# TOTAL: 7
+DOMAIN-SUFFIX,monzo-alt.net
+DOMAIN-SUFFIX,monzo.com
+DOMAIN-SUFFIX,adjust.io
+DOMAIN-SUFFIX,braze.eu
