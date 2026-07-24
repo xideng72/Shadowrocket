@@ -1,1 +1,7 @@
-
+# NAME: Gmail
+# AUTHOR: xideng72
+# REPO: https://github.com/xideng72/Shadowrocket/blob/main/App_Diversion%20rules/
+# UPDATED: 2026-07-24 12:35:42
+# DOMAIN-SUFFIX: 1
+# TOTAL: 1
+DOMAIN-SUFFIX,gmail.com
